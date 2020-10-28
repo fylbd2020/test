@@ -1,3 +1,5 @@
 first
 second
 master modify 2
+second hotfix modify
+hotfix modify
